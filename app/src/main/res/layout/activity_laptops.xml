@@ -293,7 +293,7 @@
                         android:clickable="true"
                         android:focusable="true"
                         android:src="@drawable/lap3"
-                        
+
 
                         />
 
